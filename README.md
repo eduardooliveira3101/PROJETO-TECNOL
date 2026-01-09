@@ -84,4 +84,4 @@ Este projeto é para fins educacionais.
 
 **Última atualização:** Janeiro de 2026
 
-**Desenvolvido para educação po Eduardo Oliveira**
+**Desenvolvido para educação por Carlos Eduardo de Oliveira Soares**
